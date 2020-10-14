@@ -1,0 +1,7 @@
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\obj\Debug\LegeaLuiMoor.csproj.CoreCompileInputs.cache
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\obj\Debug\LegeaLuiMoor.csprojAssemblyReference.cache
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\bin\Debug\LegeaLuiMoor.exe.config
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\bin\Debug\LegeaLuiMoor.exe
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\bin\Debug\LegeaLuiMoor.pdb
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\obj\Debug\LegeaLuiMoor.exe
+C:\Users\Vasile\source\repos\vasilef18\ASC\LegeaLuiMoor\obj\Debug\LegeaLuiMoor.pdb
